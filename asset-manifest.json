@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/json-to-csv/static/css/main.aa8bab8e.css",
+    "main.js": "/json-to-csv/static/js/main.fdead4bf.js",
+    "index.html": "/json-to-csv/index.html",
+    "main.aa8bab8e.css.map": "/json-to-csv/static/css/main.aa8bab8e.css.map",
+    "main.fdead4bf.js.map": "/json-to-csv/static/js/main.fdead4bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa8bab8e.css",
+    "static/js/main.fdead4bf.js"
+  ]
+}
