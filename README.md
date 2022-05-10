@@ -4,7 +4,7 @@
 This project is a useful tool when you have data in a JSON format, but you need to covert it into a CSV format. With this project you can take the data from a JSON file that has all the characteristics necessary to be converted into a CSV format.
 
 # Project deployed in Netlify
-### https://62775cc805e5fd07c17e6e73--lucky-starship-6af428.netlify.app/
+### https://jumpstonik-json-to-csv.netlify.app/
 
 ## Available Scripts
 
